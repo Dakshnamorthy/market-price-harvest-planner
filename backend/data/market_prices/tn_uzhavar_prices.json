@@ -1,0 +1,69 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "market": "Villupuram Uzhavar Sandhai",
+    "crop": "Tomato",
+    "price_per_kg": 18.5
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "market": "Villupuram Uzhavar Sandhai",
+    "crop": "Onion",
+    "price_per_kg": 22.0
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "market": "Thanjavur Uzhavar Sandhai",
+    "crop": "Paddy",
+    "price_per_kg": 28.0
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "market": "Villupuram Uzhavar Sandhai",
+    "crop": "Rice",
+    "price_per_kg": 32,
+    "date": "2026-01-08",
+    "source": "TN Dept. of Agricultural Marketing"
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "market": "Villupuram Uzhavar Sandhai",
+    "crop": "Tomato",
+    "price_per_kg": 18,
+    "date": "2026-01-08",
+    "source": "TN Dept. of Agricultural Marketing"
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "market": "Thanjavur Uzhavar Sandhai",
+    "crop": "Rice",
+    "price_per_kg": 34,
+    "date": "2026-01-08",
+    "source": "TN Dept. of Agricultural Marketing"
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "market": "Madurai Uzhavar Sandhai",
+    "crop": "Onion",
+    "price_per_kg": 22,
+    "date": "2026-01-08",
+    "source": "TN Dept. of Agricultural Marketing"
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "market": "Salem Uzhavar Sandhai",
+    "crop": "Tomato",
+    "price_per_kg": 19,
+    "date": "2026-01-08",
+    "source": "TN Dept. of Agricultural Marketing"
+  }
+]
+

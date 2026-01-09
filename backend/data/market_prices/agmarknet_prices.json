@@ -1,0 +1,20 @@
+[
+  {
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "market": "Puducherry Mandi",
+    "crop": "Rice",
+    "price_per_kg": 33,
+    "date": "2026-01-08",
+    "source": "Agmarknet (Govt. of India)"
+  },
+  {
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "market": "Puducherry Mandi",
+    "crop": "Tomato",
+    "price_per_kg": 20,
+    "date": "2026-01-08",
+    "source": "Agmarknet (Govt. of India)"
+  }
+]
